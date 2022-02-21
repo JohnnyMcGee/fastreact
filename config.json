@@ -1,0 +1,8 @@
+{
+
+"api_url" : "https://api.rechargeapps.com",
+"api_version":  "2021-11",
+"api_token": "xxxxxxxx",
+"indent_level":3,
+"data_sort":false
+}
